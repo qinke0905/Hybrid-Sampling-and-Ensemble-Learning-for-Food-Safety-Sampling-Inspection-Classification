@@ -1,4 +1,4 @@
-# Hybrid-Sampling-and-Ensemble-Learning-for-Food-Safety-Sampling-Inspection-Classification
+# LOF-KNN-CSENN
 ## Requirements
 
 1. Install Python >= 3.10.
